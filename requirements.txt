@@ -1,0 +1,5 @@
+black
+myst-parser
+pytest
+sphinx~=5.3
+twine
